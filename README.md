@@ -3,7 +3,7 @@ Vypracované otázky ke státní závěrečné zkoušce Informační technologie
 
 
 - 0 / 37
-			- [Matematika](1.Matematika)
+			- [1.Matematika](1.Matematika/README.md)
     - [ ] [Číselné soustavy, kódování čísel](Algoritmy%20a%20programování/Číslené%20soustavy,%20kódování%20čísel.md)
     - [ ] [Programátorský model procesoru, instrukce, práce s procesorem](Algoritmy%20a%20programování/Programátorský%20model%20procesoru,%20instrukce,%20práce%20s%20procesorem.md)
     - [ ] [Jazyk C](Algoritmy%20a%20programování/Jazyk%20C.md)
