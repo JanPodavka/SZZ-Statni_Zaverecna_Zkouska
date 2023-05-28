@@ -1,4 +1,4 @@
-1. [Derivace, diferenciál a integrál (definice, výpočty, praktický význam)](1.Matematika/1.md)
+1. [Derivace, diferenciál a integrál (definice, výpočty, praktický význam)](/1.Matematika/1.md)
 2. [Soustava lineárních rovnic a metody jejich řešení](1.Matematika/2.md)
 3. [Maticová algebra, typy matic, inverzní matice, determinant](1.Matematika/3.md)
 4. [Vlastní čísla a vlastní vektory matic. Způsob výpočtu a praktická interpretace](1.Matematika/4.md)
