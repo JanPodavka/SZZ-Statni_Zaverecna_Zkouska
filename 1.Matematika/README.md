@@ -2,4 +2,4 @@
 2. [Soustava lineárních rovnic a metody jejich řešení](1.Matematika/2.md)
 3. [Maticová algebra, typy matic, inverzní matice, determinant](1.Matematika/3.md)
 4. [Vlastní čísla a vlastní vektory matic. Způsob výpočtu a praktická interpretace](1.Matematika/4.md)
-6. [Pojem pravděpodobnost, náhodný jev. Podmíněná pravděpodobnost, nezávislost. Náhodná veličina – diskrétní, spojitá a jejich použití. Střední hodnota, kvantily, rozptyl](1.Matematika/5.md))
+6. [Pojem pravděpodobnost, náhodný jev. Podmíněná pravděpodobnost, nezávislost. Náhodná veličina – diskrétní, spojitá a jejich použití. Střední hodnota, kvantily, rozptyl](1.Matematika/5.md)
