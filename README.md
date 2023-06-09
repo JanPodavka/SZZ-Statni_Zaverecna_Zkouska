@@ -1,4 +1,4 @@
 # SZZ- Státní závěrečná zkouška
 Vypracované otázky ke státní závěrečné zkoušce Informační technologie - Inteligentní systémy 2023:
 
-- 14 / 37
+- 18 / 37
